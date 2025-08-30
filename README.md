@@ -75,7 +75,7 @@ Foreground and background isolation: Identification of key waveform features and
 
 <img src="image\ig_attr.png" alt="ig_attr" />
 
-#### Metrci
+#### Metrics
 
 - CPSC dataset： f1: 0.84
 
