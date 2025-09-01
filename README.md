@@ -42,7 +42,7 @@ python data_partition.py  # Chapman
 - **Step 2**
 
 ```python
-python main.py --model MetaECGNet --dataset CPSC
+python main.py --model DBECGNet --dataset CPSC
 ```
 
 ### Visualization
